@@ -1,0 +1,19 @@
+A user Clicked on Home Page Call To Action
+A user Clicked on Contact Me Submit
+A user Clicked on User Registration
+A user Clicked on Product Registration
+A user Clicked on SEO Keyword Research
+A user Clicked on Submit SEO Keyword Research
+
+
+
+contact-me-submit
+
+on_sent_ok: "location = 'http://www.contentwing.co.il/thank-you-page/';"
+on_submit: “ga(‘send’, ‘event’, ‘Contact Form’, ‘Submit’);”
+
+first_as_label
+
+
+on_sent_ok: "alert('sent ok');"
+on_submit: "alert('submit');"

@@ -1,0 +1,16 @@
+1f1f1f
+ffc21c
+fcfcfc
+
+bg
+d2cfd5
+808e8f 0.33
+
+
+out
+ffe74d -> to remove
+e6e6e6
+fcfcfc
+
+
+05b9cf
