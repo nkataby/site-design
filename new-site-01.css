@@ -200,3 +200,9 @@ ul.post-filter a {
   -ms-transform: rotate(2deg);
   transform: rotate(2deg);
 }
+@media screen and (max-width: 1000px){
+.cw-fix-contact-me{
+	padding-bottom: 40% !important;
+}
+	
+}
