@@ -31,6 +31,9 @@ ul.post-filter a {
 .cw-fix-ltr .module-icon span {
     min-width: 200px;
 }
+.cw-change-size{
+		font-size: 1.6em;
+}
 .divTable{
 	display: table;
 	width: 100%;
@@ -229,4 +232,10 @@ text-align: right
 .cw-fix-contact-me{
 	padding-bottom: 40% !important;
 }	   
+}
+span.cw-fix-checkboxes {
+display:block !important;
+}
+.cw-footer-slogan {
+    text-align: center;
 }
